@@ -10,7 +10,7 @@
 
 ## Download
 
-(link coming soon)
+* v0.7: [BeyondTheStorm_v0.7.0_20250710.zip](https://ptgc-public.s3.us-east-1.amazonaws.com/bts/v0.7/BeyondTheStorm_v0.7.0_20250710.zip)
 
 ## Overview
 
