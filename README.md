@@ -6,6 +6,7 @@
 * [Controls](#controls)
 * [Selected Screenshots](#selected-screenshots)
 * [Further Reading](#further-reading)
+* [Credit](#credit)
 
 ## Download
 
@@ -60,6 +61,32 @@ A sample generation of Outset and Big Tree is below.
 
 
 ## Controls
+
+_Beyond the Storm_ primarily supports mouse+keyboard though there are some controller bindings.
+
+Note there are three input modes:
+
+* Default: General gameplay including combat
+* Build: Entered by pressing TAB while holding a mallet. Allows for building of structures/items.
+* Terraform: Entered by pressing TAB while holding a shovel. Allows for raising, lowering, and flattening terrain.
+
+| Action                                        | Mouse + Keyboard  | Controller        |
+| --------------------------------------------- | ----------------- | ----------------- |
+| Movement                                      | WASD / Arrow Keys | Left Stick        |
+| Look                                          | Mouse             | Right Stick       |
+| Zoom                                          | Scroll Wheel      |                   |
+| Run                                           | Shift             | Left Shoulder     |
+| Jump                                          | Space             | North Button      |
+| Attack                                        | Left Click        | Right Trigger     |
+| Block                                         | Right Click       | Left Trigger      |
+| Arm / Unarm                                   | R                 | West Button       |
+| Target Lock                                   | Middle Click      | Right Stick Click |
+| Item Alt Mode (enter build or terraform mode) | Tab               |                   |
+| Destroy Buildable (build mode)                | Middle Click      |                   |
+| Copy Buildable (build mode)                   | Right Cick        |                   |
+| Rotate Buildable (build mode)                 | Scroll Wheel      |                   |
+| Inventory Menu                                | I                 |                   |
+| Buildable Menu                                | B                 |                   |
 
 ## Selected Screenshots
 
@@ -119,3 +146,8 @@ See the associated release posts which detail the major features of each version
 * [Version 0.4](https://www.vertexfragment.com/ramblings/bts-v04/)
 
 Earlier versions do not have associated posts.
+
+## Credit
+
+* Code and the crappy art: [ssell](https://github.com/ssell)
+* Any good art: [alex-the-bear](https://github.com/alex-the-bear)
